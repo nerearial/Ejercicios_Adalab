@@ -1,0 +1,12 @@
+git add -A // añadir cambios
+git commit -m "mensaje" // poner msg
+
+PARA BAJARME LOS CAMBIOS
+
+git add -A
+git commit .m "update"
+git pull
+
+Es posible que nos alga un error, en amarillo diciendo que no se ha hecho el pull porquehay otras modifiaciones
+git config pull.rebase false
+Aquí nos trae todos losc ambios, e hizo un MERGE "Unión de todos los cambios. 
