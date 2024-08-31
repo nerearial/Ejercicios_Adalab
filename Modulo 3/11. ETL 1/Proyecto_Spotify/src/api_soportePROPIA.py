@@ -6,7 +6,6 @@ import os
 import sys
 
 # %%
-import os
 from dotenv import load_dotenv
 from dotenv import main
 from dotenv import dotenv_values
