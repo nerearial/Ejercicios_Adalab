@@ -1,0 +1,622 @@
+{
+    "data": [
+      {
+        "residuos_pelig_cantidad_ton": 23476.42,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de disolventes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 1927.25,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de metales"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 25333.54,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Regeneración de aceite"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 22060.07,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Trituración previa a valorización de baterías"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 13109.74,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 1472.57,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Estabilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5482.42,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Esterilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 62.59,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Evapocondensación"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 8123.71,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento físico-químico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 36417.69,
+        "residuos_pelig_año": 2012,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Vertido en depósito de seguridad"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 13954.18,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de disolventes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 2420.23,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de metales"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 25045.88,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Regeneración de aceite"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 2.83,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de gases refrigerantes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 20980.69,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Trituración previa a valorización de baterías"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 13706.65,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5757.23,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Estabilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5931.9,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Esterilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 199.87,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Evapocondensación"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 447.85,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento físico-químico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 26448.4,
+        "residuos_pelig_año": 2013,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Vertido en depósito de seguridad"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 14358.13,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de disolventes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 2898.2,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de metales"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 30857.18,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Regeneración de aceite"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 402.24,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de envases"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 0.54,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de tóner"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 402.24,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de envases"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 28.56,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Recuperación de gases refrigerantes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 18856.68,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Trituración previa a valorización de baterías"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 19072.07,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 2326.8,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de cables"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 6333.48,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Estabilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5981.02,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Esterilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 2186.2,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Evapocondensación"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 12636.49,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento físico-químico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 30230.24,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Vertido en depósito de seguridad"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 3600.36,
+        "residuos_pelig_año": 2014,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento biológico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 30948.29,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de disolventes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 2656.12,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de metales"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 27414.19,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Regeneración de aceite"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 7.84,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Regeneración de gases refrigerantes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 672.59,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de envases"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 17.02,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de tóner"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 672.59,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de envases"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 21048.9,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Trituración previa a valorización de baterías"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 23989.64,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 1896.59,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de cables"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 8457.0,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Estabilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 4728.73,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Esterilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 3907.56,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Evapocondensación"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 18665.33,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento físico-químico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 35030.86,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Vertido en depósito de seguridad"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 4904.55,
+        "residuos_pelig_año": 2015,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento biológico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 27574.49,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de disolventes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 1868.67,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de metales"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 24898.16,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Regeneración de aceite"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 8.04,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Regeneración de gases refrigerantes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 835.56,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de envases"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 3.82,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de tóner"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5.34,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 835.56,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de envases"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 25179.0,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Trituración previa a valorización de baterías"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 20995.5,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 988.89,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a otras formas de valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de cables"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 3307.38,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Estabilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5137.34,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Esterilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 4389.32,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Evapocondensación"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 34744.98,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento físico-químico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 35033.52,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Vertido en depósito de seguridad"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5331.45,
+        "residuos_pelig_año": 2016,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento biológico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 17352.18,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de disolventes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 2443.75,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de metales"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 25906.76,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Regeneración de aceite"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 8.9,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de gases refrigerantes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 1080.53,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de envases"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 2.59,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de tóner"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 18.86,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 25233.94,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a valorización",
+        "residuos_pelig_tratamiento": "Trituración previa a valorización de baterías"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 22874.16,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 75.96,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de cables"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 26590.18,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a valorización",
+        "residuos_pelig_tratamiento": "Blending previo a valorización energética"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 12911.97,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Estabilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5200.61,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Esterilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 8166.07,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Evapocondensación"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 7847.03,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento físico-químico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 45860.68,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Vertido en depósito de seguridad"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 4344.15,
+        "residuos_pelig_año": 2017,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento biológico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 8317.58,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de disolventes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 4337.75,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de metales"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 22740.699999999997,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Regeneración de aceite"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5.71,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Reciclado",
+        "residuos_pelig_tratamiento": "Recuperación de gases refrigerantes"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 1332.62,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de envases"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 138.08,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Preparación para la reutilización",
+        "residuos_pelig_tratamiento": "Preparación para la reutilización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 23713.55,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a valorización",
+        "residuos_pelig_tratamiento": "Trituración previa a valorización de baterías"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 24460.46,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de RAEE"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 8.44,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a valorización",
+        "residuos_pelig_tratamiento": "Operaciones previas a valorización de cables"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 26646.11,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Tratamiento previo a valorización",
+        "residuos_pelig_tratamiento": "Blending previo a valorización energética"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 12690.120000000003,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Estabilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 5931.83,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Esterilización"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 11804.08,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Evapocondensación"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 6425.61,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento físico-químico"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 47419.86,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Vertido en depósito de seguridad"
+      },
+      {
+        "residuos_pelig_cantidad_ton": 4905.3,
+        "residuos_pelig_año": 2018,
+        "residuos_pelig_opcion_gestion": "Eliminación",
+        "residuos_pelig_tratamiento": "Tratamiento biológico"
+      }
+    ]
+  }
